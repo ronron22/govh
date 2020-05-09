@@ -1,0 +1,7 @@
+servers:
+   - name: ns313978.eu
+     image: mds
+     options: nothing
+   - name: ns306549.eu
+     image: mis
+     options: nothing
